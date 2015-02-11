@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="yinquan529" fetch="https://github.com/yinquan529">
   <project groups="pandaboard,imx53" name="u-boot-linaro-stable" path="u-boot/linaro/u-boot-linaro-stable" revision="master"/>
 </manifest>
