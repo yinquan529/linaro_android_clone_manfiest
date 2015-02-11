@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project groups="pandaboard,imx53" name="u-boot-linaro-stable" path="u-boot/linaro/u-boot-linaro-stable" revision="master"/>
+</manifest>
