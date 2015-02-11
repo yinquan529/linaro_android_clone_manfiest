@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote name="private" fetch="ssh://git@github.com">
   <remote name="yinquan529" fetch="https://github.com/yinquan529">
   <default remote="github" revision="refs/heads/master" sync-c="true" sync-j="4"/>
   <project groups="pandaboard,imx53" name="u-boot-linaro-stable" path="u-boot/linaro/u-boot-linaro-stable" revision="master"/>
