@@ -4,4 +4,5 @@
   <remote name="yinquan529" fetch="https://github.com/yinquan529">
   <default remote="github" revision="refs/heads/master" sync-c="true" sync-j="4"/>
   <project groups="pandaboard,imx53" name="u-boot-linaro-stable" path="u-boot/linaro/u-boot-linaro-stable" revision="master"/>
+  <project groups="pandaboard" name="kernel/panda" path="kernel/linaro/pandaboard" revision="da21e752f1d869e9a617c27ebd461cc04a143667"/>
 </manifest>
