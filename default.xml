@@ -3,6 +3,8 @@
   <remote name="private" fetch="ssh://git@github.com"/>
   <remote name="yinquan529" fetch="https://github.com/yinquan529"/>
   <default remote="yinquan529" revision="refs/heads/master" sync-c="true" sync-j="4"/>
+
+  <project groups="pandaboard" name="gator" path="external/gator" revision="master"/>
   <project groups="pandaboard,imx53" name="u-boot-linaro-stable" path="u-boot/linaro/u-boot-linaro-stable" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
 </manifest>
