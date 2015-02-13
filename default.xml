@@ -6,5 +6,6 @@
 
   <project groups="pandaboard" name="gator" path="external/gator" revision="master"/>
   <project groups="pandaboard,imx53" name="u-boot-linaro-stable" path="u-boot/linaro/u-boot-linaro-stable" revision="master"/>
+  <project groups="common" name="device-common" path="device/common" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
 </manifest>
