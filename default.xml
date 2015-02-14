@@ -34,4 +34,5 @@
   <project groups="common" name="people-ragesh.radhakrishnan-libjpeg-turbo" path="external/jpeg" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
   <project groups="common" name="platform-abi-cpp" path="abi/cpp" revision="master"/>
+  <project groups="common" name="platform-art" path="art" revision="master"/>
 </manifest>
