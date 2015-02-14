@@ -31,5 +31,6 @@
   <project groups="common" name="hardware-linaro-common" path="hardware/linaro/common" revision="master"/>
   <project groups="common" name="people-harigopal.gollamudi-glmark2" path="packages/apps/glmark2" revision="master"/>
   <project groups="common" name="people-harigopal.gollamudi-lava-blackbox" path="external/lava-blackbox" revision="master"/>
+  <project groups="common" name="people-ragesh.radhakrishnan-libjpeg-turbo" path="external/jpeg" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
 </manifest>
