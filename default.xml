@@ -39,4 +39,7 @@
   <project groups="common" name="platform-bootable-bootloader-legacy" path="bootable/bootloader/legacy" revision="master"/>
   <project groups="common" name="platform-bootable-diskinstaller" path="bootable/diskinstaller" revision="master"/>
   <project groups="common" name="platform-bootable-recovery" path="bootable/recovery" revision="master"/>
+  <project groups="common" name="platform-build" path="build" revision="master">
+    <copyfile dest="Makefile" src="core/root.mk"/>
+  </project>
 </manifest>
