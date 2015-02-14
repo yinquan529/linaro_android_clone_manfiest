@@ -18,5 +18,6 @@
   <project groups="device,common" name="device-google-accessory-arduino" path="device/google/accessory/arduino" revision="master"/>
   <project groups="device,common" name="device-google-accessory-demokit" path="device/google/accessory/demokit" revision="master"/>
   <project groups="common" name="device-linaro-common" path="device/linaro/common" revision="master"/>
+  <project groups="common" name="device-linaro-hi4511" path="device/linaro/hi4511" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
 </manifest>
