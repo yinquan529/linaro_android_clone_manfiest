@@ -42,4 +42,5 @@
   <project groups="common" name="platform-build" path="build" revision="master">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
+  <project groups="common" name="platform-cts" path="cts" revision="master"/>
 </manifest>
