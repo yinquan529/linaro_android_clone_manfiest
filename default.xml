@@ -37,4 +37,5 @@
   <project groups="common" name="platform-art" path="art" revision="master"/>
   <project groups="common" name="platform-bionic" path="bionic" revision="master"/>
   <project groups="common" name="platform-bootable-bootloader-legacy" path="bootable/bootloader/legacy" revision="master"/>
+  <project groups="common" name="platform-bootable-diskinstaller" path="bootable/diskinstaller" revision="master"/>
 </manifest>
