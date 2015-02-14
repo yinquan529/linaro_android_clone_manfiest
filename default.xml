@@ -16,5 +16,6 @@
   <project groups="common" name="device-generic-mips" path="device/generic/mips" revision="master"/>
   <project groups="common" name="device-generic-x86" path="device/generic/x86" revision="master"/>
   <project groups="device,common" name="device-google-accessory-arduino" path="device/google/accessory/arduino" revision="master"/>
+  <project groups="device,common" name="device-google-accessory-demokit" path="device/google/accessory/demokit" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
 </manifest>
