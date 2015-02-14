@@ -24,6 +24,6 @@
   <project groups="common" name="device-linaro-vexpress" path="device/linaro/vexpress" revision="master"/>
   <project groups="common" name="device-sample" path="device/sample" revision="master"/>
   <project groups="common" name="device-samsung-proprietary-open" path="device/samsung/proprietary-open" revision="master"/>
-  <project groups="common" name="device-samsung_slsi-arndale" path="device/samsung_slsi/arndale" revision="master"/>
+  <project groups="common" name="device-samsung_slsi-arndale" path="device/linaro/arndale" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
 </manifest>
