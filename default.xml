@@ -28,5 +28,6 @@
   <project groups="common" name="device-ti-panda" path="device/ti/panda" revision="master"/>
   <project groups="pandaboard" name="device-ti-proprietary-open" path="device/ti/proprietary-open" revision="master"/>
   <project groups="common" name="device-ti-uim" path="device/ti/uim" revision="master"/>
+  <project groups="common" name="hardware-linaro-common" path="hardware/linaro/common" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
 </manifest>
