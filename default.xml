@@ -14,5 +14,6 @@
   <project groups="common" name="device-generic-mini-emulator-mips" path="device/generic/mini-emulator-mips" revision="master"/>
   <project groups="common" name="device-generic-mini-emulator-x86" path="device/generic/mini-emulator-x86" revision="master"/>
   <project groups="common" name="device-generic-mips" path="device/generic/mips" revision="master"/>
+  <project groups="common" name="device-generic-x86" path="device/generic/x86" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
 </manifest>
