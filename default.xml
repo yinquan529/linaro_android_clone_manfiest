@@ -10,7 +10,7 @@
   <project groups="common" name="device-generic-armv7-a-neon" path="device/generic/armv7-a-neon" revision="master"/>
   <project groups="common" name="device-generic-common" path="device/generic/common" revision="master"/>
   <project groups="common" name="device-generic-goldfish" path="device/generic/goldfish" revision="master"/>
-  <project groups="common" name="device-generic-mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" revision="master"/>
-  <project groups="common" name="device-generic-mini-emulator-mips" name="device/generic/mini-emulator-mips" revision="master"/>
+  <project groups="common" name="device-generic-mini-emulator-armv7-a-neon" path="device/generic/mini-emulator-armv7-a-neon" revision="master"/>
+  <project groups="common" name="device-generic-mini-emulator-mips" path="device/generic/mini-emulator-mips" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
 </manifest>
