@@ -22,5 +22,6 @@
   <project groups="common" name="device-linaro-hi4511" path="device/linaro/hi4511" revision="master"/>
   <project groups="common" name="device-linaro-pandaboard" path="device/linaro/pandaboard" revision="master"/>
   <project groups="common" name="device-linaro-vexpress" path="device/linaro/vexpress" revision="master"/>
+  <project groups="common" name="device-sample" path="device/sample" revision="master"/>
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
 </manifest>
