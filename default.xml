@@ -35,4 +35,5 @@
   <project groups="pandaboard" name="pandaboard" path="kernel/linaro/pandaboard" revision="master"/>
   <project groups="common" name="platform-abi-cpp" path="abi/cpp" revision="master"/>
   <project groups="common" name="platform-art" path="art" revision="master"/>
+  <project groups="common" name="platform-bionic" path="bionic" revision="master"/>
 </manifest>
