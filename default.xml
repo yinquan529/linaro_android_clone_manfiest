@@ -45,4 +45,5 @@
   <project groups="common" name="platform-cts" path="cts" revision="master"/>
   <project groups="common" name="platform-dalvik" path="dalvik" revision="master"/>
   <project groups="common" name="platform-developers-build" path="developers/build" revision="master"/>
+  <project groups="common" name="platform-developers-demos" path="developers/demos" revision="master"/>
 </manifest>
