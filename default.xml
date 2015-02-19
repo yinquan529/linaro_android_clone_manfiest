@@ -55,4 +55,5 @@
   <project groups="common" name="platform-external-android-input-bridge" path="external/android_input_bridge" revision="master"/>
   <project groups="common" name="platform-external-android-mock" path="external/android-mock" revision="master"/>
   <project groups="common" name="platform-external-ant-glob" path="external/ant-glob" revision="master"/>
+  <project groups="common" name="platform-external-antlr" path="external/antlr" revision="master"/>
 </manifest>
