@@ -51,4 +51,6 @@
   <project groups="common" name="platform-development" path="development" revision="master"/>
   <project groups="common" name="platform-docs-source.android.com" path="docs/source.android.com" revision="master"/>
   <project groups="common" name="platform-external-aac" path="external/aac" revision="master"/>
+  <project groups="common" name="platform-external-android-clat" path="external/android-clat" revision="master"/>
+
 </manifest>
