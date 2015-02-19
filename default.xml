@@ -62,4 +62,5 @@
   <project groups="common" name="platform-external-apache-xml" path="external/apache-xml" revision="master"/>
   <project groups="common" name="platform-external-arduino" path="external/arduino" revision="master"/>
   <project groups="pdk,common" name="platform-external-bison" path="external/bison" revision="master"/>
+  <project groups="common" name="platform-external-blktrace" path="external/blktrace" revision="master"/>
 </manifest>
