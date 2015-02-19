@@ -43,4 +43,5 @@
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project groups="common" name="platform-cts" path="cts" revision="master"/>
+  <project groups="common" name="platform-dalvik" path="dalvik" revision="master"/>
 </manifest>
