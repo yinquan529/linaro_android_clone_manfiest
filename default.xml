@@ -57,4 +57,5 @@
   <project groups="common" name="platform-external-ant-glob" path="external/ant-glob" revision="master"/>
   <project groups="common" name="platform-external-antlr" path="external/antlr" revision="master"/>
   <project groups="common" name="platform-external-apache-harmony" path="external/apache-harmony" revision="master"/>
+  <project groups="common" name="platform-external-apache-http" path="external/apache-http" revision="master"/>
 </manifest>
