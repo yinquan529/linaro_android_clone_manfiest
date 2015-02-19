@@ -63,4 +63,5 @@
   <project groups="common" name="platform-external-arduino" path="external/arduino" revision="master"/>
   <project groups="pdk,common" name="platform-external-bison" path="external/bison" revision="master"/>
   <project groups="common" name="platform-external-blktrace" path="external/blktrace" revision="master"/>
+  <project groups="common" name="platform-external-bluetooth-bluedroid" path="external/bluetooth/bluedroid" revision="master"/>
 </manifest>
