@@ -69,4 +69,5 @@
   <project groups="common" name="platform-external-busybox" path="external/busybox" revision="master"/>
   <project groups="common" name="platform-external-bzip2" path="external/bzip2" revision="master"/>
   <project groups="common" name="platform-external-ceres-solver" path="external/ceres-solver" revision="master"/>
+  <project groups="common,pdk" name="platform-external-checkpolicy" path="external/checkpolicy" revision="master"/>
 </manifest>
