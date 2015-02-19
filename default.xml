@@ -59,4 +59,6 @@
   <project groups="common" name="platform-external-apache-harmony" path="external/apache-harmony" revision="master"/>
   <project groups="common" name="platform-external-apache-http" path="external/apache-http" revision="master"/>
   <project groups="common" name="platform-external-apache-qp" path="external/apache-qp" revision="master"/>
+  <project groups="common" name="platform-external-apache-xml" path="external/apache-xml" revision="master"/>
+
 </manifest>
