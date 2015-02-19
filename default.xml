@@ -67,4 +67,5 @@
   <project groups="common" name="platform-external-bouncycastle" path="external/bouncycastle" revision="master"/>
   <project groups="common" name="platform-external-bsdiff" path="external/bsdiff" revision="master"/>
   <project groups="common" name="platform-external-busybox" path="external/busybox" revision="master"/>
+  <project groups="common" name="platform-external-bzip2" path="external/bzip2" revision="master"/>
 </manifest>
