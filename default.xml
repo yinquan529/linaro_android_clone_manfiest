@@ -48,4 +48,5 @@
   <project groups="common" name="platform-developers-demos" path="developers/demos" revision="master"/>
   <project groups="common" name="platform-developers-docs" path="developers/docs" revision="master"/>
   <project groups="common" name="platform-developers-samples-android" path="developers/samples/android" revision="master"/>
+  <project groups="common" name="platform-development" path="development" revision="master"/>
 </manifest>
