@@ -65,4 +65,5 @@
   <project groups="common" name="platform-external-blktrace" path="external/blktrace" revision="master"/>
   <project groups="common" name="platform-external-bluetooth-bluedroid" path="external/bluetooth/bluedroid" revision="master"/>
   <project groups="common" name="platform-external-bouncycastle" path="external/bouncycastle" revision="master"/>
+  <project groups="common" name="platform-external-bsdiff" path="external/bsdiff" revision="master"/>
 </manifest>
