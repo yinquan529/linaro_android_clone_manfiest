@@ -75,4 +75,5 @@
   <project groups="common" name="platform-external-chromium-trace" path="external/chromium-trace" revision="master"/>
   <project groups="common" name="platform-external-chromium_org" path="external/chromium_org" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-sdch-open-vcdiff" path="external/chromium_org/sdch/open-vcdiff" revision="master"/>
+  <project groups="common" name="platform-external-chromium_org-testing-gtest" path="external/chromium_org/testing/gtest" revision="master"/>
 </manifest>
