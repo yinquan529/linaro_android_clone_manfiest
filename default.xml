@@ -102,4 +102,5 @@
   <project groups="common" name="platform-external-compiler-rt" path="external/compiler-rt" revision="master"/>
   <project groups="common" name="platform-external-dexmaker" path="external/dexmaker" revision="master"/>
   <project groups="common" name="platform-external-dhcpcd" path="external/dhcpcd" revision="master"/>
+  <project groups="common" name="platform-external-dnsmasq" path="external/dnsmasq" revision="master"/>
 </manifest>
