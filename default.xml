@@ -87,4 +87,5 @@
   <project groups="common" name="platform-external-chromium_org-third_party-libphonenumber-src-resources" path="external/chromium_org/third_party/libphonenumber/src/resources" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-mesa-src" path="external/chromium_org/third_party/mesa/src" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-openssl" path="external/chromium_org/third_party/openssl" revision="master"/>
+  <project groups="common" name="platform-external-chromium_org-third_party-opus-src" path="external/chromium_org/third_party/opus/src" revision="master"/>
 </manifest>
