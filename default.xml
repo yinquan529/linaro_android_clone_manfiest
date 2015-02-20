@@ -73,4 +73,5 @@
   <project groups="common" name="platform-external-chromium" path="external/chromium" revision="master"/>
   <project groups="common" name="platform-external-chromium-libpac" path="external/chromium-libpac" revision="master"/>
   <project groups="common" name="platform-external-chromium-trace" path="external/chromium-trace" revision="master"/>
+  <project groups="common" name="platform-external-chromium_org" path="external/chromium_org" revision="master"/>
 </manifest>
