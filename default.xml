@@ -97,4 +97,5 @@
   <project groups="common" name="platform-external-chromium_org-third_party-yasm-source-patched-yasm" path="external/chromium_org/third_party/yasm/source/patched-yasm" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-tools-grit" path="external/chromium_org/tools/grit" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-tools-gyp" path="external/chromium_org/tools/gyp" revision="master"/>
+  <project groups="common" name="platform-external-chromium_org-v8" path="external/chromium_org/v8" revision="master"/>
 </manifest>
