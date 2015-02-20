@@ -105,4 +105,5 @@
   <project groups="common" name="platform-external-dnsmasq" path="external/dnsmasq" revision="master"/>
   <project groups="common" name="platform-external-doclava" path="external/doclava" revision="master"/>
   <project groups="common" name="platform-external-droiddriver" path="external/droiddriver" revision="master"/>
+  <project groups="common" name="platform-external-dropbear" path="external/dropbear" revision="master"/>
 </manifest>
