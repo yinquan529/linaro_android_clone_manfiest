@@ -95,4 +95,5 @@
   <project groups="common" name="platform-external-chromium_org-third_party-skia-src" path="external/chromium_org/third_party/skia/src" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-smhasher-src" path="external/chromium_org/third_party/smhasher/src" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-yasm-source-patched-yasm" path="external/chromium_org/third_party/yasm/source/patched-yasm" revision="master"/>
+  <project groups="common" name="platform-external-chromium_org-tools-grit" path="external/chromium_org/tools/grit" revision="master"/>
 </manifest>
