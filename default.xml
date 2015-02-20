@@ -78,4 +78,5 @@
   <project groups="common" name="platform-external-chromium_org-testing-gtest" path="external/chromium_org/testing/gtest" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-WebKit" path="external/chromium_org/third_party/WebKit" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-angle" path="external/chromium_org/third_party/angle" revision="master"/>
+  <project groups="common" name="platform-external-chromium_org-third_party-eyesfree-src-android-java-src-com-googlecode-eyesfree-bra" path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" revision="master"/>
 </manifest>
