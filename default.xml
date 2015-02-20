@@ -83,4 +83,5 @@
   <project groups="common" name="platform-external-chromium_org-third_party-icu" path="external/chromium_org/third_party/icu" revision="e937892c783e81889740c2d8193fb7c4fee7eb3e"/>
   <project groups="common" name="platform-external-chromium_org-third_party-leveldatabase-src" path="external/chromium_org/third_party/leveldatabase/src" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-libjingle-source-talk" path="external/chromium_org/third_party/libjingle/source/talk" revision="master"/>
+  <project groups="common" name="platform-external-chromium_org-third_party-libphonenumber-src-phonenumbers" path="external/chromium_org/third_party/libphonenumber/src/phonenumbers" revision="master"/>
 </manifest>
