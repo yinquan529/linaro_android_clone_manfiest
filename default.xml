@@ -100,4 +100,5 @@
   <project groups="common" name="platform-external-chromium_org-v8" path="external/chromium_org/v8" revision="master"/>
   <project groups="common" name="platform-external-clang" path="external/clang" revision="master"/>
   <project groups="common" name="platform-external-compiler-rt" path="external/compiler-rt" revision="master"/>
+  <project groups="common" name="platform-external-dexmaker" path="external/dexmaker" revision="master"/>
 </manifest>
