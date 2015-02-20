@@ -84,4 +84,5 @@
   <project groups="common" name="platform-external-chromium_org-third_party-leveldatabase-src" path="external/chromium_org/third_party/leveldatabase/src" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-libjingle-source-talk" path="external/chromium_org/third_party/libjingle/source/talk" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-libphonenumber-src-phonenumbers" path="external/chromium_org/third_party/libphonenumber/src/phonenumbers" revision="master"/>
+  <project groups="common" name="platform-external-chromium_org-third_party-libphonenumber-src-resources" path="external/chromium_org/third_party/libphonenumber/src/resources" revision="master"/>
 </manifest>
