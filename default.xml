@@ -90,4 +90,5 @@
   <project groups="common" name="platform-external-chromium_org-third_party-opus-src" path="external/chromium_org/third_party/opus/src" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-ots" path="external/chromium_org/third_party/ots" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-sfntly-cpp-src" path="external/chromium_org/third_party/sfntly/cpp/src" revision="master"/>
+  <project groups="common" name="platform-external-chromium_org-third_party-skia-gyp" path="external/chromium_org/third_party/skia/gyp" revision="master"/>
 </manifest>
