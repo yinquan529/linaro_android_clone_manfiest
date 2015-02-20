@@ -89,4 +89,5 @@
   <project groups="common" name="platform-external-chromium_org-third_party-openssl" path="external/chromium_org/third_party/openssl" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-opus-src" path="external/chromium_org/third_party/opus/src" revision="master"/>
   <project groups="common" name="platform-external-chromium_org-third_party-ots" path="external/chromium_org/third_party/ots" revision="master"/>
+  <project groups="common" name="platform-external-chromium_org-third_party-sfntly-cpp-src" path="external/chromium_org/third_party/sfntly/cpp/src" revision="master"/>
 </manifest>
