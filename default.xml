@@ -147,4 +147,5 @@
   <project groups="common" name="platform-external-jdiff" path="external/jdiff" revision="master"/>
   <project groups="common" name="platform-external-jhead" path="external/jhead" revision="master"/>
   <project groups="common" name="platform-external-jmdns" path="external/jmdns" revision="master"/>
+  <project groups="common" name="platform-external-jmonkeyengine" path="external/jmonkeyengine" revision="master"/>
 </manifest>
