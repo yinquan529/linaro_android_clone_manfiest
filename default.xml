@@ -111,4 +111,5 @@
   <project groups="common" name="platform-external-eclipse-basebuilder" path="external/eclipse-basebuilder" revision="master"/>
   <project groups="common" name="platform-external-eclipse-windowbuilder" path="external/eclipse-windowbuilder" revision="master"/>
   <project groups="common" name="platform-external-eigen" path="external/eigen" revision="master"/>
+  <project groups="common" name="platform-external-elfutils" path="external/elfutils" revision="master"/>
 </manifest>
