@@ -144,4 +144,5 @@
   <project groups="common" name="platform-external-jack" path="external/jack" revision="master"/>
   <project groups="common" name="platform-external-javasqlite" path="external/javasqlite" revision="master"/>
   <project groups="common" name="platform-external-javassist" path="external/javassist" revision="master"/>
+  <project groups="common" name="platform-external-jdiff" path="external/jdiff" revision="master"/>
 </manifest>
