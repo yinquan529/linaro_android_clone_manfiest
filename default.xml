@@ -128,4 +128,5 @@
   <project groups="common" name="platform-external-giflib" path="external/giflib" revision="master"/>
   <project groups="common" name="platform-external-google-diff-match-patch" path="external/google-diff-match-patch" revision="master"/>
   <project groups="common" name="platform-external-grub" path="external/grub" revision="master"/>
+  <project groups="common" name="platform-external-gtest" path="external/gtest" revision="master"/>
 </manifest>
