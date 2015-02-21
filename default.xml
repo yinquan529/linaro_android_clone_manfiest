@@ -125,4 +125,5 @@
   <project groups="common" name="platform-external-ganymed-ssh2" path="external/ganymed-ssh2" revision="master"/>
   <project groups="common" name="platform-external-gcc-demangle" path="external/gcc-demangle" revision="master"/>
   <project groups="common" name="platform-external-genext2fs" path="external/genext2fs" revision="master"/>
+  <project groups="common" name="platform-external-giflib" path="external/giflib" revision="master"/>
 </manifest>
