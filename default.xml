@@ -140,4 +140,5 @@
   <project groups="common" name="platform-external-iproute2" path="external/iproute2" revision="master"/>
   <project groups="common" name="platform-external-ipsec-tools" path="external/ipsec-tools" revision="master"/>
   <project groups="common" name="platform-external-iptables" path="external/iptables" revision="master"/>
+  <project groups="common" name="platform-external-iputils" path="external/iputils" revision="master"/>
 </manifest>
