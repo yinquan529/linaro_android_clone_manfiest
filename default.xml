@@ -115,4 +115,5 @@
   <project groups="common" name="platform-external-embunit" path="external/embunit" revision="master"/>
   <project groups="common" name="platform-external-emma" path="external/emma" revision="master"/>
   <project groups="common" name="platform-external-esd" path="external/esd" revision="master"/>
+  <project groups="common" name="platform-external-expat" path="external/expat" revision="master"/>
 </manifest>
