@@ -119,4 +119,5 @@
   <project groups="common" name="platform-external-eyes-free" path="external/eyes-free" revision="master"/>
   <project groups="common" name="platform-external-fdlibm" path="external/fdlibm" revision="master"/>
   <project groups="common" name="platform-external-ffmpeg" path="external/ffmpeg" revision="master"/>
+  <project groups="common" name="platform-external-flac" path="external/flac" revision="master"/>
 </manifest>
