@@ -136,4 +136,5 @@
   <project groups="common" name="platform-external-htop" path="external/htop" revision="master"/>
   <project groups="common" name="platform-external-hyphenation" path="external/hyphenation" revision="master"/>
   <project groups="common" name="platform-external-icu4c" path="external/icu4c" revision="master"/>
+  <project groups="common" name="platform-external-iozone" path="external/iozone" revision="master"/>
 </manifest>
