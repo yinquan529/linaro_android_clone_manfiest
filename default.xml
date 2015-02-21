@@ -120,4 +120,5 @@
   <project groups="common" name="platform-external-fdlibm" path="external/fdlibm" revision="master"/>
   <project groups="common" name="platform-external-ffmpeg" path="external/ffmpeg" revision="master"/>
   <project groups="common" name="platform-external-flac" path="external/flac" revision="master"/>
+  <project groups="common" name="platform-external-freetype" path="external/freetype" revision="master"/>
 </manifest>
