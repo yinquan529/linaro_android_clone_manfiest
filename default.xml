@@ -117,4 +117,5 @@
   <project groups="common" name="platform-external-esd" path="external/esd" revision="master"/>
   <project groups="common" name="platform-external-expat" path="external/expat" revision="master"/>
   <project groups="common" name="platform-external-eyes-free" path="external/eyes-free" revision="master"/>
+  <project groups="common" name="platform-external-fdlibm" path="external/fdlibm" revision="master"/>
 </manifest>
