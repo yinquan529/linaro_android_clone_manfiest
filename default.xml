@@ -109,4 +109,5 @@
   <project groups="common" name="platform-external-e2fsprogs" path="external/e2fsprogs" revision="master"/>
   <project groups="common" name="platform-external-easymock" path="external/easymock" revision="master"/>
   <project groups="common" name="platform-external-eclipse-basebuilder" path="external/eclipse-basebuilder" revision="master"/>
+  <project groups="common" name="platform-external-eclipse-windowbuilder" path="external/eclipse-windowbuilder" revision="master"/>
 </manifest>
