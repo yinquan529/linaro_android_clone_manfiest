@@ -133,4 +133,5 @@
   <project groups="common" name="platform-external-hamcrest" path="external/hamcrest" revision="master"/>
   <project groups="common" name="platform-external-harfbuzz" path="external/harfbuzz" revision="master"/>
   <project groups="common" name="platform-external-harfbuzz_ng" path="external/harfbuzz_ng" revision="master"/>
+  <project groups="common" name="platform-external-htop" path="external/htop" revision="master"/>
 </manifest>
