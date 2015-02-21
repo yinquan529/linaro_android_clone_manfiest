@@ -122,4 +122,5 @@
   <project groups="common" name="platform-external-flac" path="external/flac" revision="master"/>
   <project groups="common" name="platform-external-freetype" path="external/freetype" revision="master"/>
   <project groups="common" name="platform-external-fsck_msdos" path="external/fsck_msdos" revision="master"/>
+  <project groups="common" name="platform-external-ganymed-ssh2" path="external/ganymed-ssh2" revision="master"/>
 </manifest>
