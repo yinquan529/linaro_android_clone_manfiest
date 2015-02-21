@@ -150,4 +150,5 @@
   <project groups="common" name="platform-external-jmonkeyengine" path="external/jmonkeyengine" revision="master"/>
   <project groups="common" name="platform-external-jsilver" path="external/jsilver" revision="master"/>
   <project groups="common" name="platform-external-jsr305" path="external/jsr305" revision="master"/>
+  <project groups="common" name="platform-external-junit" path="external/junit" revision="master"/>
 </manifest>
