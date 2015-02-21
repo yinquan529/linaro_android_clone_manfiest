@@ -143,4 +143,5 @@
   <project groups="common" name="platform-external-iputils" path="external/iputils" revision="master"/>
   <project groups="common" name="platform-external-jack" path="external/jack" revision="master"/>
   <project groups="common" name="platform-external-javasqlite" path="external/javasqlite" revision="master"/>
+  <project groups="common" name="platform-external-javassist" path="external/javassist" revision="master"/>
 </manifest>
