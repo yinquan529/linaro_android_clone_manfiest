@@ -113,4 +113,5 @@
   <project groups="common" name="platform-external-eigen" path="external/eigen" revision="master"/>
   <project groups="common" name="platform-external-elfutils" path="external/elfutils" revision="master"/>
   <project groups="common" name="platform-external-embunit" path="external/embunit" revision="master"/>
+  <project groups="common" name="platform-external-emma" path="external/emma" revision="master"/>
 </manifest>
