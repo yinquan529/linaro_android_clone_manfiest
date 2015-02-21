@@ -131,4 +131,5 @@
   <project groups="common" name="platform-external-gtest" path="external/gtest" revision="master"/>
   <project groups="common" name="platform-external-guava" path="external/guava" revision="master"/>
   <project groups="common" name="platform-external-hamcrest" path="external/hamcrest" revision="master"/>
+  <project groups="common" name="platform-external-harfbuzz" path="external/harfbuzz" revision="master"/>
 </manifest>
