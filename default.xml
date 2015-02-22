@@ -179,4 +179,5 @@
   <project groups="common,libyuv" name="platform-external-libyuv" path="external/libyuv" revision="master"/>
   <project groups="common" name="platform-external-linaro-android-tools" path="external/linaro-android-tools" revision="master"/>
   <project groups="common" name="platform-external-linux-tools-perf" path="external/linux-tools-perf" revision="master"/>
+  <project groups="common" name="platform-external-littlemock" path="external/littlemock" revision="master"/>
 </manifest>
