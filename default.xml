@@ -175,4 +175,5 @@
   <project groups="common" name="platform-external-libvorbis" path="external/libvorbis" revision="master"/>
   <project groups="common" name="platform-external-libvpx" path="external/libvpx" revision="master"/>
   <project groups="common" name="platform-external-libxml2" path="external/libxml2" revision="master"/>
+  <project groups="common" name="platform-external-libxslt" path="external/libxslt" revision="master"/>
 </manifest>
