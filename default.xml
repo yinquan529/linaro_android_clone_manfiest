@@ -190,4 +190,5 @@
   <project groups="pandaboard" name="platform-external-mesa3d" path="external/mesa3d" revision="master"/>
   <project groups="common" name="platform-external-mksh" path="external/mksh" revision="master"/>
   <project groups="common" name="platform-external-mockito" path="external/mockito" revision="master"/>
+  <project groups="common" name="platform-external-mockwebserver" path="external/mockwebserver" revision="master"/>
 </manifest>
