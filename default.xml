@@ -168,4 +168,5 @@
   <project groups="common" name="platform-external-libpng" path="external/libpng" revision="master"/>
   <project groups="common" name="platform-external-libppp" path="external/libppp" revision="master"/>
   <project groups="common,pdk" name="platform-external-libselinux" path="external/libselinux" revision="master"/>
+  <project groups="common,pdk" name="platform-external-libsepol" path="external/libsepol" revision="master"/>
 </manifest>
