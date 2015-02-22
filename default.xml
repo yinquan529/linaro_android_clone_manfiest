@@ -195,4 +195,5 @@
   <project groups="common" name="platform-external-mtpd" path="external/mtpd" revision="master"/>
   <project groups="common" name="platform-external-naver-fonts" path="external/naver-fonts" revision="master"/>
   <project groups="common" name="platform-external-ncurses" path="external/ncurses" revision="master"/>
+  <project groups="common" name="platform-external-netcat" path="external/netcat" revision="master"/>
 </manifest>
