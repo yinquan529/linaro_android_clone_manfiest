@@ -191,4 +191,5 @@
   <project groups="common" name="platform-external-mksh" path="external/mksh" revision="master"/>
   <project groups="common" name="platform-external-mockito" path="external/mockito" revision="master"/>
   <project groups="common" name="platform-external-mockwebserver" path="external/mockwebserver" revision="master"/>
+  <project groups="common" name="platform-external-mp4parser" path="external/mp4parser" revision="master"/>
 </manifest>
