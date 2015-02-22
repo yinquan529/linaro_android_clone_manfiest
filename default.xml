@@ -183,4 +183,5 @@
   <project groups="common" name="platform-external-llvm" path="external/llvm" revision="master"/>
   <project groups="common" name="platform-external-lrzsz" path="external/lrzsz" revision="master"/>
   <project groups="common" name="platform-external-lzma" path="external/lzma" revision="master"/>
+  <project groups="common" name="platform-external-marisa-trie" path="external/marisa-trie" revision="master"/>
 </manifest>
