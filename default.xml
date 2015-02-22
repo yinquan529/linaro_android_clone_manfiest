@@ -154,4 +154,5 @@
   <project groups="common" name="platform-external-kernel-headers" path="external/kernel-headers" revision="master"/>
   <project groups="common" name="platform-external-libcap-ng" path="external/libcap-ng" revision="master"/>
   <project groups="common" name="platform-external-libexif" path="external/libexif" revision="master"/>
+  <project groups="common" name="platform-external-libffi" path="external/libffi" revision="master"/>
 </manifest>
