@@ -172,4 +172,5 @@
   <project groups="common" name="platform-external-libssh2" path="external/libssh2" revision="master"/>
   <project groups="common" name="platform-external-libusb" path="external/libusb" revision="master"/>
   <project groups="common" name="platform-external-libusb-compat" path="external/libusb-compat" revision="master"/>
+  <project groups="common" name="platform-external-libvorbis" path="external/libvorbis" revision="master"/>
 </manifest>
