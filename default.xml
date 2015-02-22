@@ -162,4 +162,5 @@
   <project groups="common" name="platform-external-libnfc-nxp" path="external/libnfc-nxp" revision="master"/>
   <project groups="common" name="platform-external-libnl" path="external/libnl" revision="master"/>
   <project groups="common" name="platform-external-libnl-headers" path="external/libnl-headers" revision="master"/>
+  <project groups="common" name="platform-external-libogg" path="external/libogg" revision="master"/>
 </manifest>
