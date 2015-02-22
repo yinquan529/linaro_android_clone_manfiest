@@ -181,4 +181,5 @@
   <project groups="common" name="platform-external-linux-tools-perf" path="external/linux-tools-perf" revision="master"/>
   <project groups="common" name="platform-external-littlemock" path="external/littlemock" revision="master"/>
   <project groups="common" name="platform-external-llvm" path="external/llvm" revision="master"/>
+  <project groups="common" name="platform-external-lrzsz" path="external/lrzsz" revision="master"/>
 </manifest>
