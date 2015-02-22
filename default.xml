@@ -164,4 +164,5 @@
   <project groups="common" name="platform-external-libnl-headers" path="external/libnl-headers" revision="master"/>
   <project groups="common" name="platform-external-libogg" path="external/libogg" revision="master"/>
   <project groups="common" name="platform-external-libpcap" path="external/libpcap" revision="master"/>
+  <project groups="common" name="platform-external-libphonenumber" path="external/libphonenumber" revision="master"/>
 </manifest>
