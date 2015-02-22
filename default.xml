@@ -152,4 +152,5 @@
   <project groups="common" name="platform-external-jsr305" path="external/jsr305" revision="master"/>
   <project groups="common" name="platform-external-junit" path="external/junit" revision="master"/>
   <project groups="common" name="platform-external-kernel-headers" path="external/kernel-headers" revision="master"/>
+  <project groups="common" name="platform-external-libcap-ng" path="external/libcap-ng" revision="master"/>
 </manifest>
