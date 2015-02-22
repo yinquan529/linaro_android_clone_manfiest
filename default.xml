@@ -196,4 +196,5 @@
   <project groups="common" name="platform-external-naver-fonts" path="external/naver-fonts" revision="master"/>
   <project groups="common" name="platform-external-ncurses" path="external/ncurses" revision="master"/>
   <project groups="common" name="platform-external-netcat" path="external/netcat" revision="master"/>
+  <project groups="common" name="platform-external-netperf" path="external/netperf" revision="master"/>
 </manifest>
