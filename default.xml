@@ -166,4 +166,5 @@
   <project groups="common" name="platform-external-libpcap" path="external/libpcap" revision="master"/>
   <project groups="common" name="platform-external-libphonenumber" path="external/libphonenumber" revision="master"/>
   <project groups="common" name="platform-external-libpng" path="external/libpng" revision="master"/>
+  <project groups="common" name="platform-external-libppp" path="external/libppp" revision="master"/>
 </manifest>
