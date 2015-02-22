@@ -174,4 +174,5 @@
   <project groups="common" name="platform-external-libusb-compat" path="external/libusb-compat" revision="master"/>
   <project groups="common" name="platform-external-libvorbis" path="external/libvorbis" revision="master"/>
   <project groups="common" name="platform-external-libvpx" path="external/libvpx" revision="master"/>
+  <project groups="common" name="platform-external-libxml2" path="external/libxml2" revision="master"/>
 </manifest>
