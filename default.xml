@@ -160,4 +160,5 @@
   <project groups="common" name="platform-external-libmtp" path="external/libmtp" revision="master"/>
   <project groups="common" name="platform-external-libnfc-nci" path="external/libnfc-nci" revision="master"/>
   <project groups="common" name="platform-external-libnfc-nxp" path="external/libnfc-nxp" revision="master"/>
+  <project groups="common" name="platform-external-libnl" path="external/libnl" revision="master"/>
 </manifest>
