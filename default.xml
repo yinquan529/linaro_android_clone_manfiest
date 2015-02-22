@@ -177,4 +177,5 @@
   <project groups="common" name="platform-external-libxml2" path="external/libxml2" revision="master"/>
   <project groups="common" name="platform-external-libxslt" path="external/libxslt" revision="master"/>
   <project groups="common,libyuv" name="platform-external-libyuv" path="external/libyuv" revision="master"/>
+  <project groups="common" name="platform-external-linaro-android-tools" path="external/linaro-android-tools" revision="master"/>
 </manifest>
