@@ -248,4 +248,5 @@
   <project groups="common" name="platform-external-tinyalsa" path="external/tinyalsa" revision="master"/>
   <project groups="common" name="platform-external-tinycompress" path="external/tinycompress" revision="master"/>
   <project groups="common,pdk" name="platform-external-tinyxml" path="external/tinyxml" revision="master"/>
+  <project groups="common" name="platform-external-tinyxml2" path="external/tinyxml2" revision="master"/>
 </manifest>
