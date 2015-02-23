@@ -238,4 +238,5 @@
   <project groups="common" name="platform-external-srtp" path="external/srtp" revision="master"/>
   <project groups="common" name="platform-external-stlport" path="external/stlport" revision="master"/>
   <project groups="common" name="platform-external-strace" path="external/strace" revision="master"/>
+  <project groups="common" name="platform-external-stress" path="external/stress" revision="master"/>
 </manifest>
