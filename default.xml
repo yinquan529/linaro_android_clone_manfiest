@@ -198,4 +198,5 @@
   <project groups="common" name="platform-external-netcat" path="external/netcat" revision="master"/>
   <project groups="common" name="platform-external-netperf" path="external/netperf" revision="master"/>
   <project groups="common" name="platform-external-neven" path="external/neven" revision="master"/>
+  <project groups="common" name="platform-external-nfacct" path="external/nfacct" revision="master"/>
 </manifest>
