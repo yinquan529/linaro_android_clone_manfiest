@@ -257,4 +257,5 @@
   <project groups="common" name="platform-external-webrtc" path="external/webrtc" revision="master"/>
   <project groups="common" name="platform-external-wpa_supplicant_8" path="external/wpa_supplicant_8" revision="master"/>
   <project groups="common" name="platform-external-x264" path="external/x264" revision="master"/>
+  <project groups="common" name="platform-external-xmlwriter" path="external/xmlwriter" revision="master"/>
 </manifest>
