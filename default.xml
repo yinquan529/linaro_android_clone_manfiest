@@ -259,4 +259,5 @@
   <project groups="common" name="platform-external-x264" path="external/x264" revision="master"/>
   <project groups="common" name="platform-external-xmlwriter" path="external/xmlwriter" revision="master"/>
   <project groups="common" name="platform-external-xmp_toolkit" path="external/xmp_toolkit" revision="master"/>
+  <project groups="common" name="platform-external-yaffs2" path="external/yaffs2" revision="master"/>
 </manifest>
