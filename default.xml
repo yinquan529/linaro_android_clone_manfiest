@@ -247,4 +247,5 @@
   <project groups="common" name="platform-external-timezonepicker-support" path="external/timezonepicker-support" revision="master"/>
   <project groups="common" name="platform-external-tinyalsa" path="external/tinyalsa" revision="master"/>
   <project groups="common" name="platform-external-tinycompress" path="external/tinycompress" revision="master"/>
+  <project groups="common,pdk" name="platform-external-tinyxml" path="external/tinyxml" revision="master"/>
 </manifest>
