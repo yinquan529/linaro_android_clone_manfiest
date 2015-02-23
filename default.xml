@@ -203,4 +203,5 @@
   <project groups="common" name="platform-external-nist-sip" path="external/nist-sip" revision="master"/>
   <project groups="common" name="platform-external-noto-fonts" path="external/noto-fonts" revision="master"/>
   <project groups="common" name="platform-external-oauth" path="external/oauth" revision="master"/>
+  <project groups="common" name="platform-external-objenesis" path="external/objenesis" revision="master"/>
 </manifest>
