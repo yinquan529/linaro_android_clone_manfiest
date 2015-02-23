@@ -232,4 +232,5 @@
   <project groups="common" name="platform-external-smack" path="external/smack" revision="master"/>
   <project groups="common" name="platform-external-smali" path="external/smali" revision="master"/>
   <project groups="common" name="platform-external-sonivox" path="external/sonivox" revision="master"/>
+  <project groups="common" name="platform-external-speex" path="external/speex" revision="master"/>
 </manifest>
