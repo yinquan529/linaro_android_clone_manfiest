@@ -255,4 +255,5 @@
   <project groups="common" name="platform-external-valgrind" path="external/valgrind" revision="master"/>
   <project groups="common" name="platform-external-webp" path="external/webp" revision="master"/>
   <project groups="common" name="platform-external-webrtc" path="external/webrtc" revision="master"/>
+  <project groups="common" name="platform-external-wpa_supplicant_8" path="external/wpa_supplicant_8" revision="master"/>
 </manifest>
