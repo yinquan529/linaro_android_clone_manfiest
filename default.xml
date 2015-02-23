@@ -222,4 +222,5 @@
   <project groups="common" name="platform-external-qemu-pc-bios" path="external/qemu-pc-bios" revision="master"/>
   <project groups="common" name="platform-external-regex-re2" path="external/regex-re2" revision="master"/>
   <project groups="common" name="platform-external-replicaisland" path="external/replicaisland" revision="master"/>
+  <project groups="common" name="platform-external-robolectric" path="external/robolectric" revision="master"/>
 </manifest>
