@@ -213,4 +213,5 @@
   <project groups="common" name="platform-external-oprofile" path="external/oprofile" revision="master"/>
   <project groups="common" name="platform-external-pixman" path="external/pixman" revision="master"/>
   <project groups="common" name="platform-external-pm-qa" path="external/pm-qa" revision="master"/>
+  <project groups="common" name="platform-external-powerdebug" path="external/powerdebug" revision="master"/>
 </manifest>
