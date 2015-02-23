@@ -241,4 +241,5 @@
   <project groups="common" name="platform-external-stress" path="external/stress" revision="master"/>
   <project groups="common" name="platform-external-stressapptest" path="external/stressapptest" revision="master"/>
   <project groups="common" name="platform-external-svox" path="external/svox" revision="master"/>
+  <project groups="common" name="platform-external-tagsoup" path="external/tagsoup" revision="master"/>
 </manifest>
