@@ -226,4 +226,5 @@
   <project groups="common" name="platform-external-safe-iop" path="external/safe-iop" revision="master"/>
   <project groups="common" name="platform-external-scrypt" path="external/scrypt" revision="master"/>
   <project groups="common,pdk" name="platform-external-sepolicy" path="external/sepolicy" revision="master"/>
+  <project groups="common" name="platform-external-sfntly" path="external/sfntly" revision="master"/>
 </manifest>
