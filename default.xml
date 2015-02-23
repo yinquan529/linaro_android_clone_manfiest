@@ -230,4 +230,5 @@
   <project groups="common" name="platform-external-sil-fonts" path="external/sil-fonts" revision="master"/>
   <project groups="common" name="platform-external-skia" path="external/skia" revision="master"/>
   <project groups="common" name="platform-external-smack" path="external/smack" revision="master"/>
+  <project groups="common" name="platform-external-smali" path="external/smali" revision="master"/>
 </manifest>
