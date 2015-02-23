@@ -210,4 +210,5 @@
   <project groups="common" name="platform-external-openfst" path="external/openfst" revision="master"/>
   <project groups="common" name="platform-external-openssh" path="external/openssh" revision="master"/>
   <project groups="common" name="platform-external-openssl" path="external/openssl" revision="master"/>
+  <project groups="common" name="platform-external-oprofile" path="external/oprofile" revision="master"/>
 </manifest>
