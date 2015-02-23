@@ -215,4 +215,5 @@
   <project groups="common" name="platform-external-pm-qa" path="external/pm-qa" revision="master"/>
   <project groups="common" name="platform-external-powerdebug" path="external/powerdebug" revision="master"/>
   <project groups="common" name="platform-external-powertop-2.0" path="external/powertop" revision="master"/>
+  <project groups="common" name="platform-external-ppp" path="external/ppp" revision="master"/>
 </manifest>
