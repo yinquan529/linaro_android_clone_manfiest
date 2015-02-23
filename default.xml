@@ -208,5 +208,5 @@
   <project groups="common" name="platform-external-open-vcdiff" path="external/open-vcdiff" revision="master"/>
   <project groups="common" name="platform-external-opencv" path="external/opencv" revision="master"/>
   <project groups="common" name="platform-external-openfst" path="external/openfst" revision="master"/>
-  <project groups="common" name="platform-external-openssh" path="external/openssh" revision="d2a912f39de1c2ba2a2d8f37c673eeb1c2b41b99"/>
+  <project groups="common" name="platform-external-openssh" path="external/openssh" revision="master"/>
 </manifest>
