@@ -254,4 +254,5 @@
   <project groups="common" name="platform-external-v8" path="external/v8" revision="master"/>
   <project groups="common" name="platform-external-valgrind" path="external/valgrind" revision="master"/>
   <project groups="common" name="platform-external-webp" path="external/webp" revision="master"/>
+  <project groups="common" name="platform-external-webrtc" path="external/webrtc" revision="master"/>
 </manifest>
