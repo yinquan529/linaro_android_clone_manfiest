@@ -224,4 +224,5 @@
   <project groups="common" name="platform-external-replicaisland" path="external/replicaisland" revision="master"/>
   <project groups="common" name="platform-external-robolectric" path="external/robolectric" revision="master"/>
   <project groups="common" name="platform-external-safe-iop" path="external/safe-iop" revision="master"/>
+  <project groups="common" name="platform-external-scrypt" path="external/scrypt" revision="master"/>
 </manifest>
