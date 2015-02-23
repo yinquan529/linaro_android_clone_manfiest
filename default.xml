@@ -244,4 +244,5 @@
   <project groups="common" name="platform-external-tagsoup" path="external/tagsoup" revision="master"/>
   <project groups="common" name="platform-external-tcpdump" path="external/tcpdump" revision="master"/>
   <project groups="common" name="platform-external-thirdparty-benchmarks" path="external/thirdparty-benchmarks" revision="master"/>
+  <project groups="common" name="platform-external-timezonepicker-support" path="external/timezonepicker-support" revision="master"/>
 </manifest>
