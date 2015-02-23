@@ -206,4 +206,5 @@
   <project groups="common" name="platform-external-objenesis" path="external/objenesis" revision="master"/>
   <project groups="common" name="platform-external-okhttp" path="external/okhttp" revision="master"/>
   <project groups="common" name="platform-external-open-vcdiff" path="external/open-vcdiff" revision="master"/>
+  <project groups="common" name="platform-external-opencv" path="external/opencv" revision="master"/>
 </manifest>
