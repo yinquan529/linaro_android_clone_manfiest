@@ -223,4 +223,5 @@
   <project groups="common" name="platform-external-regex-re2" path="external/regex-re2" revision="master"/>
   <project groups="common" name="platform-external-replicaisland" path="external/replicaisland" revision="master"/>
   <project groups="common" name="platform-external-robolectric" path="external/robolectric" revision="master"/>
+  <project groups="common" name="platform-external-safe-iop" path="external/safe-iop" revision="master"/>
 </manifest>
