@@ -219,4 +219,5 @@
   <project groups="common" name="platform-external-proguard" path="external/proguard" revision="master"/>
   <project groups="common" name="platform-external-protobuf" path="external/protobuf" revision="master"/>
   <project groups="common" name="platform-external-qemu" path="external/qemu" revision="master"/>
+  <project groups="common" name="platform-external-qemu-pc-bios" path="external/qemu-pc-bios" revision="master"/>
 </manifest>
