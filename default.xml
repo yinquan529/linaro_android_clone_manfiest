@@ -262,4 +262,5 @@
   <project groups="common" name="platform-external-yaffs2" path="external/yaffs2" revision="master"/>
   <project groups="common" name="platform-external-zlib" path="external/zlib" revision="master"/>
   <project groups="common" name="platform-external-zxing" path="external/zxing" revision="master"/>
+  <project groups="common" name="platform-frameworks-av" path="frameworks/av" revision="master"/>
 </manifest>
