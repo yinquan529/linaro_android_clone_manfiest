@@ -212,4 +212,5 @@
   <project groups="common" name="platform-external-openssl" path="external/openssl" revision="master"/>
   <project groups="common" name="platform-external-oprofile" path="external/oprofile" revision="master"/>
   <project groups="common" name="platform-external-pixman" path="external/pixman" revision="master"/>
+  <project groups="common" name="platform-external-pm-qa" path="external/pm-qa" revision="master"/>
 </manifest>
