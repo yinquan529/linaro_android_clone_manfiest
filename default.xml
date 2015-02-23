@@ -252,4 +252,5 @@
   <project groups="common" name="platform-external-tools_for_pm-qa" path="external/tools_for_pm-qa" revision="master"/>
   <project groups="common" name="platform-external-tremolo" path="external/tremolo" revision="master"/>
   <project groups="common" name="platform-external-v8" path="external/v8" revision="master"/>
+  <project groups="common" name="platform-external-valgrind" path="external/valgrind" revision="master"/>
 </manifest>
