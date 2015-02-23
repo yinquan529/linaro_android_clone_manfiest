@@ -237,4 +237,5 @@
   <project groups="common" name="platform-external-srec" path="external/srec" revision="master"/>
   <project groups="common" name="platform-external-srtp" path="external/srtp" revision="master"/>
   <project groups="common" name="platform-external-stlport" path="external/stlport" revision="master"/>
+  <project groups="common" name="platform-external-strace" path="external/strace" revision="master"/>
 </manifest>
