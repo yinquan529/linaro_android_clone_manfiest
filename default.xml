@@ -234,4 +234,5 @@
   <project groups="common" name="platform-external-sonivox" path="external/sonivox" revision="master"/>
   <project groups="common" name="platform-external-speex" path="external/speex" revision="master"/>
   <project groups="common" name="platform-external-sqlite" path="external/sqlite" revision="master"/>
+  <project groups="common" name="platform-external-srec" path="external/srec" revision="master"/>
 </manifest>
