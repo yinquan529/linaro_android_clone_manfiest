@@ -200,4 +200,5 @@
   <project groups="common" name="platform-external-neven" path="external/neven" revision="master"/>
   <project groups="common" name="platform-external-nfacct" path="external/nfacct" revision="master"/>
   <project groups="common" name="platform-external-nist-pkits" path="external/nist-pkits" revision="master"/>
+  <project groups="common" name="platform-external-nist-sip" path="external/nist-sip" revision="master"/>
 </manifest>
