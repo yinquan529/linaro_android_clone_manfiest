@@ -218,4 +218,5 @@
   <project groups="common" name="platform-external-ppp" path="external/ppp" revision="master"/>
   <project groups="common" name="platform-external-proguard" path="external/proguard" revision="master"/>
   <project groups="common" name="platform-external-protobuf" path="external/protobuf" revision="master"/>
+  <project groups="common" name="platform-external-qemu" path="external/qemu" revision="master"/>
 </manifest>
