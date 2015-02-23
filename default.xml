@@ -250,4 +250,5 @@
   <project groups="common,pdk" name="platform-external-tinyxml" path="external/tinyxml" revision="master"/>
   <project groups="common" name="platform-external-tinyxml2" path="external/tinyxml2" revision="master"/>
   <project groups="common" name="platform-external-tools_for_pm-qa" path="external/tools_for_pm-qa" revision="master"/>
+  <project groups="common" name="platform-external-tremolo" path="external/tremolo" revision="master"/>
 </manifest>
