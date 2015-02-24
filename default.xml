@@ -300,4 +300,5 @@
   <project groups="common" name="platform-hardware-linaro-tinyhal" path="hardware/linaro/tinyhal" revision="master"/>
   <project groups="common" name="platform-hardware-ril" path="hardware/ril" revision="master"/>
   <project groups="common" name="platform-hardware-samsung-origen-gralloc_ump" path="hardware/samsung/origen/gralloc_ump" revision="master"/>
+  <project groups="common" name="platform-hardware-samsung-origen-ump" path="hardware/samsung/origen/ump" revision="master"/>
 </manifest>
