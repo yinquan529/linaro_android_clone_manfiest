@@ -296,4 +296,5 @@
   <project groups="common" name="platform-hardware-broadcom-wlan" path="hardware/broadcom/wlan" revision="master"/>
   <project groups="common" name="platform-hardware-invensense" path="hardware/invensense" revision="master"/>
   <project groups="common" name="platform-hardware-libhardware" path="hardware/libhardware" revision="master"/>
+  <project groups="common" name="platform-hardware-libhardware_legacy" path="hardware/libhardware_legacy" revision="master"/>
 </manifest>
