@@ -272,4 +272,5 @@
   <project groups="common" name="platform-frameworks-ml" path="frameworks/ml" revision="master"/>
   <project groups="common" name="platform-frameworks-native" path="frameworks/native" revision="master"/>
   <project groups="common" name="platform-frameworks-opt-calendar" path="frameworks/opt/calendar" revision="master"/>
+  <project groups="common" name="platform-frameworks-opt-carddav" path="frameworks/opt/carddav" revision="master"/>
 </manifest>
