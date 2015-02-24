@@ -302,4 +302,5 @@
   <project groups="common" name="platform-hardware-samsung-origen-gralloc_ump" path="hardware/samsung/origen/gralloc_ump" revision="master"/>
   <project groups="common" name="platform-hardware-samsung-origen-ump" path="hardware/samsung/origen/ump" revision="master"/>
   <project groups="common" name="platform-hardware-samsung_slsi-exynos5" path="hardware/samsung_slsi/exynos5" revision="master"/>
+  <project groups="common" name="platform-hardware-ti-omap3" path="hardware/ti/omap3" revision="master"/>
 </manifest>
