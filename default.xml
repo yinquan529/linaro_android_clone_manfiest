@@ -308,4 +308,5 @@
   <project groups="common" name="platform-hardware-ti-wpan" path="hardware/ti/wpan" revision="master"/>
   <project groups="common" name="platform-libcore" path="libcore" revision="master"/>
   <project groups="common" name="platform-libnativehelper" path="libnativehelper" revision="master"/>
+  <project groups="common" name="platform-ndk" path="ndk" revision="master"/>
 </manifest>
