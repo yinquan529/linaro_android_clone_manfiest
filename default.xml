@@ -283,4 +283,5 @@
   <project groups="common" name="platform-frameworks-opt-photoviewer" path="frameworks/opt/photoviewer" revision="master"/>
   <project groups="common,pdk" name="platform-frameworks-opt-telephony" path="frameworks/opt/telephony" revision="master"/>
   <project groups="common" name="platform-frameworks-opt-timezonepicker" path="frameworks/opt/timezonepicker" revision="master"/>
+  <project groups="common" name="platform-frameworks-opt-vcard" path="frameworks/opt/vcard" revision="master"/>
 </manifest>
