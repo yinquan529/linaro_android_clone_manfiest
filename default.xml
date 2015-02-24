@@ -275,4 +275,5 @@
   <project groups="common" name="platform-frameworks-opt-carddav" path="frameworks/opt/carddav" revision="master"/>
   <project groups="common" name="platform-frameworks-opt-colorpicker" path="frameworks/opt/colorpicker" revision="master"/>
   <project groups="common" name="platform-frameworks-opt-datetimepicker" path="frameworks/opt/datetimepicker" revision="master"/>
+  <project groups="common" name="platform-frameworks-opt-emoji" path="frameworks/opt/emoji" revision="master"/>
 </manifest>
