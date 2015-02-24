@@ -270,4 +270,5 @@
   <project groups="common" name="platform-frameworks-ex" path="frameworks/ex" revision="master"/>
   <project groups="common" name="platform-frameworks-mff" path="frameworks/mff" revision="master"/>
   <project groups="common" name="platform-frameworks-ml" path="frameworks/ml" revision="master"/>
+  <project groups="common" name="platform-frameworks-native" path="frameworks/native" revision="master"/>
 </manifest>
