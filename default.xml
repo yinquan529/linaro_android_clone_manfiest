@@ -289,4 +289,5 @@
   <project groups="common" name="platform-frameworks-support" path="frameworks/support" revision="master"/>
   <project groups="common" name="platform-frameworks-testing" path="frameworks/testing" revision="master"/>
   <project groups="common" name="platform-frameworks-volley" path="frameworks/volley" revision="master"/>
+  <project groups="common" name="platform-frameworks-webview" path="frameworks/webview" revision="master"/>
 </manifest>
