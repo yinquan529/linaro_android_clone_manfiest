@@ -280,4 +280,5 @@
   <project groups="common" name="platform-frameworks-opt-mailcommon" path="frameworks/opt/mailcommon" revision="master"/>
   <project groups="common" name="platform-frameworks-opt-mms" path="frameworks/opt/mms" revision="master"/>
   <project groups="common" name="platform-frameworks-opt-net-voip" path="frameworks/opt/net/voip" revision="master"/>
+  <project groups="common" name="platform-frameworks-opt-photoviewer" path="frameworks/opt/photoviewer" revision="master"/>
 </manifest>
