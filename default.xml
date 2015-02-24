@@ -291,4 +291,5 @@
   <project groups="common" name="platform-frameworks-volley" path="frameworks/volley" revision="master"/>
   <project groups="common" name="platform-frameworks-webview" path="frameworks/webview" revision="master"/>
   <project groups="common" name="platform-frameworks-wilhelm" path="frameworks/wilhelm" revision="master"/>
+  <project groups="common" name="platform-hardware-akm" path="hardware/akm" revision="master"/>
 </manifest>
