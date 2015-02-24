@@ -277,4 +277,5 @@
   <project groups="common" name="platform-frameworks-opt-datetimepicker" path="frameworks/opt/datetimepicker" revision="master"/>
   <project groups="common" name="platform-frameworks-opt-emoji" path="frameworks/opt/emoji" revision="master"/>
   <project groups="common" name="platform-frameworks-opt-inputmethodcommon" path="frameworks/opt/inputmethodcommon" revision="master"/>
+  <project groups="common" name="platform-frameworks-opt-mailcommon" path="frameworks/opt/mailcommon" revision="master"/>
 </manifest>
