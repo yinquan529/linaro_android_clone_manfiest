@@ -306,4 +306,5 @@
   <project groups="common" name="platform-hardware-ti-omap4xxx" path="hardware/ti/omap4xxx" revision="master"/>
   <project groups="common" name="platform-hardware-ti-wlan" path="hardware/ti/wlan" revision="master"/>
   <project groups="common" name="platform-hardware-ti-wpan" path="hardware/ti/wpan" revision="master"/>
+  <project groups="common" name="platform-libcore" path="libcore" revision="master"/>
 </manifest>
