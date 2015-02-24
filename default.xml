@@ -293,5 +293,6 @@
   <project groups="common" name="platform-frameworks-wilhelm" path="frameworks/wilhelm" revision="master"/>
   <project groups="common" name="platform-hardware-akm" path="hardware/akm" revision="master"/>
   <project groups="common,pdk" name="platform-hardware-broadcom-libbt" path="hardware/broadcom/libbt" revision="master"/>
+  <project groups="common" name="platform-hardware-broadcom-wlan" path="hardware/broadcom/wlan" revision="master"/>
 
 </manifest>
