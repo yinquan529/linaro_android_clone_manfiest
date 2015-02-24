@@ -297,4 +297,5 @@
   <project groups="common" name="platform-hardware-invensense" path="hardware/invensense" revision="master"/>
   <project groups="common" name="platform-hardware-libhardware" path="hardware/libhardware" revision="master"/>
   <project groups="common" name="platform-hardware-libhardware_legacy" path="hardware/libhardware_legacy" revision="master"/>
+  <project groups="common" name="platform-hardware-linaro-tinyhal" path="hardware/linaro/tinyhal" revision="master"/>
 </manifest>
