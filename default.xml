@@ -281,4 +281,5 @@
   <project groups="common" name="platform-frameworks-opt-mms" path="frameworks/opt/mms" revision="master"/>
   <project groups="common" name="platform-frameworks-opt-net-voip" path="frameworks/opt/net/voip" revision="master"/>
   <project groups="common" name="platform-frameworks-opt-photoviewer" path="frameworks/opt/photoviewer" revision="master"/>
+  <project groups="common,pdk" name="platform-frameworks-opt-telephony" path="frameworks/opt/telephony" revision="master"/>
 </manifest>
