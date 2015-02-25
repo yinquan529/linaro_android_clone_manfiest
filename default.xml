@@ -309,4 +309,5 @@
   <project groups="common" name="platform-libcore" path="libcore" revision="master"/>
   <project groups="common" name="platform-libnativehelper" path="libnativehelper" revision="master"/>
   <project groups="common" name="platform-ndk" path="ndk" revision="master"/>
+  <project groups="common" name="platform-packages-apps-0xbench" path="packages/apps/0xbench" revision="master"/>
 </manifest>
