@@ -311,4 +311,5 @@
   <project groups="common" name="platform-ndk" path="ndk" revision="master"/>
   <project groups="common" name="platform-packages-apps-0xbench" path="packages/apps/0xbench" revision="master"/>
   <project groups="common" name="platform-packages-apps-BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Bluetooth" path="packages/apps/Bluetooth" revision="master"/>
 </manifest>
