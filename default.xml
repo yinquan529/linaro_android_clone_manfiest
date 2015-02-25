@@ -313,4 +313,5 @@
   <project groups="common" name="platform-packages-apps-BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="master"/>
   <project groups="common" name="platform-packages-apps-Bluetooth" path="packages/apps/Bluetooth" revision="master"/>
   <project groups="common" name="platform-packages-apps-Browser" path="packages/apps/Browser" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Calculator" path="packages/apps/Calculator" revision="master"/>
 </manifest>
