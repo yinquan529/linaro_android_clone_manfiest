@@ -322,4 +322,5 @@
   <project groups="common" name="platform-packages-apps-Contacts" path="packages/apps/Contacts" revision="master"/>
   <project groups="common" name="platform-packages-apps-ContactsCommon" path="packages/apps/ContactsCommon" revision="master"/>
   <project groups="common" name="platform-packages-apps-DeskClock" path="packages/apps/DeskClock" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Dialer" path="packages/apps/Dialer" revision="master"/>
 </manifest>
