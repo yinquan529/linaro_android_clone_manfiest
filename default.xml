@@ -315,4 +315,5 @@
   <project groups="common" name="platform-packages-apps-Browser" path="packages/apps/Browser" revision="master"/>
   <project groups="common" name="platform-packages-apps-Calculator" path="packages/apps/Calculator" revision="master"/>
   <project groups="common" name="platform-packages-apps-Calendar" path="packages/apps/Calendar" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Camera" path="packages/apps/Camera" revision="master"/>
 </manifest>
