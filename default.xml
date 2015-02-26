@@ -337,4 +337,5 @@
   <project groups="common" name="platform-packages-apps-Mms" path="packages/apps/Mms" revision="master"/>
   <project groups="common" name="platform-packages-apps-Music" path="packages/apps/Music" revision="master"/>
   <project groups="common" name="platform-packages-apps-MusicFX" path="packages/apps/MusicFX" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Nfc" path="packages/apps/Nfc" revision="master"/>
 </manifest>
