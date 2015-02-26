@@ -339,4 +339,5 @@
   <project groups="common" name="platform-packages-apps-MusicFX" path="packages/apps/MusicFX" revision="master"/>
   <project groups="common" name="platform-packages-apps-Nfc" path="packages/apps/Nfc" revision="master"/>
   <project groups="common" name="platform-packages-apps-OneTimeInitializer" path="packages/apps/OneTimeInitializer" revision="master"/>
+  <project groups="common" name="platform-packages-apps-PackageInstaller" path="packages/apps/PackageInstaller" revision="master"/>
 </manifest>
