@@ -320,4 +320,5 @@
   <project groups="common" name="platform-packages-apps-CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" revision="master"/>
   <project groups="common" name="platform-packages-apps-CertInstaller" path="packages/apps/CertInstaller" revision="master"/>
   <project groups="common" name="platform-packages-apps-Contacts" path="packages/apps/Contacts" revision="master"/>
+  <project groups="common" name="platform-packages-apps-ContactsCommon" path="packages/apps/ContactsCommon" revision="master"/>
 </manifest>
