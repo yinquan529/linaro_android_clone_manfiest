@@ -335,4 +335,5 @@
   <project groups="common" name="platform-packages-apps-Launcher3" path="packages/apps/Launcher3" revision="master"/>
   <project groups="common" name="platform-packages-apps-LegacyCamera" path="packages/apps/LegacyCamera" revision="master"/>
   <project groups="common" name="platform-packages-apps-Mms" path="packages/apps/Mms" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Music" path="packages/apps/Music" revision="master"/>
 </manifest>
