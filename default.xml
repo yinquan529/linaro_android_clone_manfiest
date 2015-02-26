@@ -332,4 +332,5 @@
   <project groups="common" name="platform-packages-apps-InCallUI" path="packages/apps/InCallUI" revision="master"/>
   <project groups="common" name="platform-packages-apps-KeyChain" path="packages/apps/KeyChain" revision="master"/>
   <project groups="common" name="platform-packages-apps-Launcher2" path="packages/apps/Launcher2" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Launcher3" path="packages/apps/Launcher3" revision="master"/>
 </manifest>
