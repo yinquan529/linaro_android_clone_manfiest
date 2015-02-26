@@ -336,4 +336,5 @@
   <project groups="common" name="platform-packages-apps-LegacyCamera" path="packages/apps/LegacyCamera" revision="master"/>
   <project groups="common" name="platform-packages-apps-Mms" path="packages/apps/Mms" revision="master"/>
   <project groups="common" name="platform-packages-apps-Music" path="packages/apps/Music" revision="master"/>
+  <project groups="common" name="platform-packages-apps-MusicFX" path="packages/apps/MusicFX" revision="master"/>
 </manifest>
