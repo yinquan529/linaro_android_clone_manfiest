@@ -326,4 +326,5 @@
   <project groups="common" name="platform-packages-apps-DisableSuspend" path="packages/apps/DisableSuspend" revision="master"/>
   <project groups="common" name="platform-packages-apps-Email" path="packages/apps/Email" revision="master"/>
   <project groups="common" name="platform-packages-apps-Exchange" path="packages/apps/Exchange" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Gallery" path="packages/apps/Gallery" revision="master"/>
 </manifest>
