@@ -325,4 +325,5 @@
   <project groups="common" name="platform-packages-apps-Dialer" path="packages/apps/Dialer" revision="master"/>
   <project groups="common" name="platform-packages-apps-DisableSuspend" path="packages/apps/DisableSuspend" revision="master"/>
   <project groups="common" name="platform-packages-apps-Email" path="packages/apps/Email" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Exchange" path="packages/apps/Exchange" revision="master"/>
 </manifest>
