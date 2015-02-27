@@ -423,5 +423,6 @@
   <project groups="common" name="platform-system-vold" path="system/vold" revision="master"/>
   <project groups="tools,common" name="platform-tools-external-fat32lib" path="tools/external/fat32lib" revision="master"/>
   <project groups="common" name="tools-idlestat" path="external/idlestat" revision="master"/>
+  <project groups="pandaboard" name="waffle-gl-waffle" path="external/waffle" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
