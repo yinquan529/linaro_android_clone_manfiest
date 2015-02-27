@@ -386,5 +386,6 @@
   <project groups="linux,common" name="platform-prebuilts-clang-linux-x86-3.2" path="prebuilts/clang/linux-x86/3.2" revision="master"/>
   <project groups="common" name="platform-prebuilts-devtools" path="prebuilts/devtools" revision="master"/>
   <project groups="common" name="platform-prebuilts-eclipse" path="prebuilts/eclipse" revision="master"/>
+  <project groups="darwin,arm,common" name="platform-prebuilts-gcc-darwin-x86-arm-arm-eabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
