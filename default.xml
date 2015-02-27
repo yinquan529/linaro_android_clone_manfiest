@@ -351,4 +351,5 @@
   <project groups="common" name="platform-packages-apps-SpareParts" path="packages/apps/SpareParts" revision="master"/>
   <project groups="common" name="platform-packages-apps-SpeechRecorder" path="packages/apps/SpeechRecorder" revision="master"/>
   <project groups="common" name="platform-packages-apps-Stk" path="packages/apps/Stk" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Tag" path="packages/apps/Tag" revision="master"/>
 </manifest>
