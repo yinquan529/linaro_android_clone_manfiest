@@ -408,5 +408,6 @@
   <project groups="pdk,linux,x86,common" name="platform-prebuilts-gcc-linux-x86-x86-i686-linux-android-4.7" path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" revision="master"/>
   <project groups="common" name="platform-prebuilts-gradle-plugin" path="prebuilts/gradle-plugin" revision="master"/>
   <project groups="common" name="platform-prebuilts-maven_repo-android" path="prebuilts/maven_repo/android" revision="master"/>
+  <project groups="common" name="platform-prebuilts-misc" path="prebuilts/misc" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
