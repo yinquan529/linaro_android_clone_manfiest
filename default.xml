@@ -379,5 +379,6 @@
   <project groups="common" name="platform-packages-wallpapers-MusicVisualization" path="packages/wallpapers/MusicVisualization" revision="master"/>
   <project groups="common" name="platform-packages-wallpapers-NoiseField" path="packages-wallpapers-NoiseField" revision="master"/>
   <project groups="common" name="platform-packages-wallpapers-PhaseBeam" path="packages/wallpapers/PhaseBeam" revision="master"/>
+  <project groups="common" name="platform-pdk" path="pdk" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
