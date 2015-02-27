@@ -343,4 +343,5 @@
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
   <project groups="common" name="platform-packages-apps-PhoneCommon" path="packages/apps/PhoneCommon" revision="master"/>
   <project groups="common" name="platform-packages-apps-Protips" path="packages/apps/Protips" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Provision" path="packages/apps/Provision" revision="master"/>
 </manifest>
