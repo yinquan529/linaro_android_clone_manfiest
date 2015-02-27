@@ -341,4 +341,5 @@
   <project groups="common" name="platform-packages-apps-OneTimeInitializer" path="packages/apps/OneTimeInitializer" revision="master"/>
   <project groups="common" name="platform-packages-apps-PackageInstaller" path="packages/apps/PackageInstaller" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
+  <project groups="common" name="platform-packages-apps-PhoneCommon" path="packages/apps/PhoneCommon" revision="master"/>
 </manifest>
