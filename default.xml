@@ -363,4 +363,5 @@
   <project groups="common" name="platform-packages-providers-CalendarProvider" path="packages/providers/CalendarProvider" revision="master"/>
   <project groups="common" name="platform-packages-providers-ContactsProvider" path="packages/providers/ContactsProvider" revision="master"/>
   <project groups="common" name="platform-packages-providers-DownloadProvider" path="packages/providers/DownloadProvider" revision="master"/>
+  <project groups="common" name="platform-packages-providers-MediaProvider" path="packages/providers/MediaProvider" revision="master"/>
 </manifest>
