@@ -359,4 +359,5 @@
   <project groups="common" name="platform-packages-inputmethods-LatinIME" path="packages/inputmethods/LatinIME" revision="master"/>
   <project groups="common" name="platform-packages-inputmethods-OpenWnn" path="packages/inputmethods/OpenWnn" revision="master"/>
   <project groups="common" name="platform-packages-inputmethods-PinyinIME" path="packages/inputmethods/PinyinIME" revision="master"/>
+  <project groups="common" name="platform-packages-providers-ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="master"/>
 </manifest>
