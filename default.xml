@@ -392,5 +392,6 @@
   <project groups="common,pdk,darwin,arm" name="platform-prebuilts-gcc-darwin-x86-arm-arm-linux-androideabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7" revision="master"/>
   <project groups="common,pdk,darwin" name="platform-prebuilts-gcc-darwin-x86-host-headers" path="prebuilts/gcc/darwin-x86/host/headers" revision="master"/>
   <project groups="common,pdk,darwin" name="platform-prebuilts-gcc-darwin-x86-host-i686-apple-darwin-4.2.1" path="prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" revision="master"/>
+  <project groups="darwin,x86,common" name="platform-prebuilts-gcc-darwin-x86-x86-i686-linux-android-4.6" path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
