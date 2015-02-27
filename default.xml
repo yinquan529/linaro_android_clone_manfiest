@@ -370,5 +370,6 @@
   <project groups="common" name="platform-packages-screensavers-PhotoTable" path="packages/screensavers/PhotoTable" revision="master"/>
   <project groups="common" name="platform-packages-screensavers-WebView" path="packages/screensavers/WebView" revision="master"/>
   <project groups="common" name="platform-packages-services-Telephony" path="packages/services/Telephony" revision="master"/>
+  <project groups="common" name="platform-packages-wallpapers-Basic" path="packages/wallpapers/Basic" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
