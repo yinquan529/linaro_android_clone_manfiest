@@ -356,4 +356,5 @@
   <project groups="common" name="platform-packages-apps-VideoEditor" path="packages/apps/VideoEditor" revision="master"/>
   <project groups="common" name="platform-packages-apps-VoiceDialer" path="packages/apps/VoiceDialer" revision="master"/>
   <project groups="common" name="platform-packages-experimental" path="packages/experimental" revision="master"/>
+  <project groups="common" name="platform-packages-inputmethods-LatinIME" path="packages/inputmethods/LatinIME" revision="master"/>
 </manifest>
