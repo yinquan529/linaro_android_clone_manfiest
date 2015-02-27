@@ -383,5 +383,6 @@
   <project groups="darwin,common" name="platform-prebuilts-clang-darwin-x86-3.1" path="prebuilts/clang/darwin-x86/3.1" revision="master"/>
   <project groups="darwin,common" name="platform-prebuilts-clang-darwin-x86-3.2" path="prebuilts/clang/darwin-x86/3.2" revision="master"/>
   <project groups="linux,common" name="platform-prebuilts-clang-linux-x86-3.1" path="prebuilts/clang/linux-x86/3.1" revision="master"/>
+  <project groups="linux,common" name="platform-prebuilts-clang-linux-x86-3.2" path="prebuilts/clang/linux-x86/3.2" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
