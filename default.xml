@@ -368,5 +368,6 @@
   <project groups="common" name="platform-packages-providers-UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="master"/>
   <project groups="common" name="platform-packages-screensavers-Basic" path="packages/screensavers/Basic" revision="master"/>
   <project groups="common" name="platform-packages-screensavers-PhotoTable" path="packages/screensavers/PhotoTable" revision="master"/>
+  <project groups="common" name="platform-packages-screensavers-WebView" path="packages/screensavers/WebView" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
