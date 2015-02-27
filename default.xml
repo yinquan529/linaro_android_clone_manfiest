@@ -346,4 +346,5 @@
   <project groups="common" name="platform-packages-apps-Provision" path="packages/apps/Provision" revision="master"/>
   <project groups="common" name="platform-packages-apps-QuickSearchBox" path="packages/apps/QuickSearchBox" revision="master"/>
   <project groups="common" name="platform-packages-apps-Settings" path="packages/apps/Settings" revision="master"/>
+  <project groups="common" name="platform-packages-apps-SmartCardService" path="packages/apps/SmartCardService" revision="master"/>
 </manifest>
