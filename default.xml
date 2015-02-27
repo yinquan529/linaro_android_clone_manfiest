@@ -353,4 +353,5 @@
   <project groups="common" name="platform-packages-apps-Stk" path="packages/apps/Stk" revision="master"/>
   <project groups="common" name="platform-packages-apps-Tag" path="packages/apps/Tag" revision="master"/>
   <project groups="common" name="platform-packages-apps-UnifiedEmail" path="packages/apps/UnifiedEmail" revision="master"/>
+  <project groups="common" name="platform-packages-apps-VideoEditor" path="packages/apps/VideoEditor" revision="master"/>
 </manifest>
