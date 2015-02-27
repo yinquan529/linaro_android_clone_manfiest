@@ -372,5 +372,6 @@
   <project groups="common" name="platform-packages-services-Telephony" path="packages/services/Telephony" revision="master"/>
   <project groups="common" name="platform-packages-wallpapers-Basic" path="packages/wallpapers/Basic" revision="master"/>
   <project groups="common" name="platform-packages-wallpapers-Galaxy4" path="packages/wallpapers/Galaxy4" revision="master"/>
+  <project groups="common" name="platform-packages-wallpapers-HoloSpiral" path="packages/wallpapers/HoloSpiral" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
