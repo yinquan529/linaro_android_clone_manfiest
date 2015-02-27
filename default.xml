@@ -415,5 +415,6 @@
   <project groups="common" name="platform-prebuilts-sdk" path="prebuilts/sdk" revision="master"/>
   <project groups="common,pdk,tools" name="platform-prebuilts-tools" path="prebuilts/tools" revision="master"/>
   <project groups="common" name="platform-sdk" path="sdk" revision="master"/>
+  <project groups="common" name="platform-system-core" path="system/core" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
