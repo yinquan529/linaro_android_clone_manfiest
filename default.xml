@@ -399,5 +399,6 @@
   <project groups="linux,arm,common" name="platform-prebuilts-gcc-linux-x86-arm-arm-linux-androideabi-4.6" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" revision="master"/>
   <project groups="pdk,linux,arm,common" name="platform-prebuilts-gcc-linux-x86-arm-arm-linux-androideabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" revision="master"/>
   <project groups="linux,arm,common" name="platform-prebuilts-gcc-linux-x86-arm-arm-linux-androideabi-4.7-linaro" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7-linaro" revision="master"/>
+  <project groups="linux,arm,common" name="platform-prebuilts-gcc-linux-x86-arm-arm-linux-androideabi-4.8-linaro" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
