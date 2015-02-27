@@ -417,5 +417,6 @@
   <project groups="common" name="platform-sdk" path="sdk" revision="master"/>
   <project groups="common" name="platform-system-core" path="system/core" revision="master"/>
   <project groups="common" name="platform-system-extras" path="system/extras" revision="master"/>
+  <project groups="common" name="platform-system-media" path="system/media" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
