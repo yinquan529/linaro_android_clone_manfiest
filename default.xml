@@ -375,5 +375,6 @@
   <project groups="common" name="platform-packages-wallpapers-HoloSpiral" path="packages/wallpapers/HoloSpiral" revision="master"/>
   <project groups="common" name="platform-packages-wallpapers-LinaroWallpaper" path="packages/wallpapers/LinaroWallpaper" revision="master"/>
   <project groups="common" name="platform-packages-wallpapers-LivePicker" path="packages/wallpapers/LivePicker" revision="master"/>
+  <project groups="common" name="platform-packages-wallpapers-MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
