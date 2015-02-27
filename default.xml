@@ -404,5 +404,6 @@
   <project groups="linux,common" name="platform-prebuilts-gcc-linux-x86-host-i686-linux-glibc2.7-4.4.3" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" revision="master"/>
   <project groups="linux,common" name="platform-prebuilts-gcc-linux-x86-host-i686-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" revision="master"/>
   <project groups="linux,common" name="platform-prebuilts-gcc-linux-x86-host-x86_64-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" revision="master"/>
+  <project groups="linux,x86,common" name="platform-prebuilts-gcc-linux-x86-x86-i686-linux-android-4.6" path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
