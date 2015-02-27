@@ -365,5 +365,6 @@
   <project groups="common" name="platform-packages-providers-MediaProvider" path="packages/providers/MediaProvider" revision="master"/>
   <project groups="common" name="platform-packages-providers-PartnerBookmarksProvider" path="packages/providers/PartnerBookmarksProvider" revision="master"/>
   <project groups="common" name="platform-packages-providers-TelephonyProvider" path="packages/providers/TelephonyProvider" revision="master"/>
+  <project groups="common" name="platform-packages-providers-UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
