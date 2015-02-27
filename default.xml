@@ -413,5 +413,6 @@
   <project groups="common" name="platform-prebuilts-qemu-kernel" path="prebuilts/qemu-kernel" revision="master"/>
   <project groups="common" name="platform-prebuilts-runtime" path="prebuilts/runtime" revision="master"/>
   <project groups="common" name="platform-prebuilts-sdk" path="prebuilts/sdk" revision="master"/>
+  <project groups="common,pdk,tools" name="platform-prebuilts-tools" path="prebuilts/tools" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
