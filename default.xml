@@ -340,7 +340,6 @@
   <project groups="common" name="platform-packages-apps-Nfc" path="packages/apps/Nfc" revision="master"/>
   <project groups="common" name="platform-packages-apps-OneTimeInitializer" path="packages/apps/OneTimeInitializer" revision="master"/>
   <project groups="common" name="platform-packages-apps-PackageInstaller" path="packages/apps/PackageInstaller" revision="master"/>
-  <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
   <project groups="common" name="platform-packages-apps-PhoneCommon" path="packages/apps/PhoneCommon" revision="master"/>
   <project groups="common" name="platform-packages-apps-Protips" path="packages/apps/Protips" revision="master"/>
   <project groups="common" name="platform-packages-apps-Provision" path="packages/apps/Provision" revision="master"/>
@@ -364,4 +363,5 @@
   <project groups="common" name="platform-packages-providers-ContactsProvider" path="packages/providers/ContactsProvider" revision="master"/>
   <project groups="common" name="platform-packages-providers-DownloadProvider" path="packages/providers/DownloadProvider" revision="master"/>
   <project groups="common" name="platform-packages-providers-MediaProvider" path="packages/providers/MediaProvider" revision="master"/>
+  <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
