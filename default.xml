@@ -388,5 +388,6 @@
   <project groups="common" name="platform-prebuilts-eclipse" path="prebuilts/eclipse" revision="master"/>
   <project groups="darwin,arm,common" name="platform-prebuilts-gcc-darwin-x86-arm-arm-eabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" revision="master"/>
   <project groups="common,pdk,darwin,arm" name="platform-prebuilts-gcc-darwin-x86-arm-arm-eabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" revision="master"/>
+  <project groups="darwin,arm,common" name="platform-prebuilts-gcc-darwin-x86-arm-arm-linux-androideabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
