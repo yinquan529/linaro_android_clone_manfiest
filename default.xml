@@ -403,5 +403,6 @@
   <project groups="linux,arm,common" name="platform-prebuilts-gcc-linux-x86-arm-arm-linux-androideabi-4.9-linaro" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-linaro" revision="master"/>
   <project groups="linux,common" name="platform-prebuilts-gcc-linux-x86-host-i686-linux-glibc2.7-4.4.3" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" revision="master"/>
   <project groups="linux,common" name="platform-prebuilts-gcc-linux-x86-host-i686-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" revision="master"/>
+  <project groups="linux,common" name="platform-prebuilts-gcc-linux-x86-host-x86_64-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
 </manifest>
