@@ -345,4 +345,5 @@
   <project groups="common" name="platform-packages-apps-Protips" path="packages/apps/Protips" revision="master"/>
   <project groups="common" name="platform-packages-apps-Provision" path="packages/apps/Provision" revision="master"/>
   <project groups="common" name="platform-packages-apps-QuickSearchBox" path="packages/apps/QuickSearchBox" revision="master"/>
+  <project groups="common" name="platform-packages-apps-Settings" path="packages/apps/Settings" revision="master"/>
 </manifest>
