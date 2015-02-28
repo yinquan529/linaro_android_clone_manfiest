@@ -377,7 +377,7 @@
   <project groups="common" name="platform-packages-wallpapers-LivePicker" path="packages/wallpapers/LivePicker" revision="master"/>
   <project groups="common" name="platform-packages-wallpapers-MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="master"/>
   <project groups="common" name="platform-packages-wallpapers-MusicVisualization" path="packages/wallpapers/MusicVisualization" revision="master"/>
-  <project groups="common" name="platform-packages-wallpapers-NoiseField" path="packages-wallpapers-NoiseField" revision="master"/>
+  <project groups="common" name="platform-packages-wallpapers-NoiseField" path="packages/wallpapers/NoiseField" revision="master"/>
   <project groups="common" name="platform-packages-wallpapers-PhaseBeam" path="packages/wallpapers/PhaseBeam" revision="master"/>
   <project groups="common" name="platform-pdk" path="pdk" revision="master"/>
   <project groups="darwin,common" name="platform-prebuilts-clang-darwin-x86-3.1" path="prebuilts/clang/darwin-x86/3.1" revision="master"/>
