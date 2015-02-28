@@ -425,4 +425,5 @@
   <project groups="common" name="tools-idlestat" path="external/idlestat" revision="master"/>
   <project groups="pandaboard" name="waffle-gl-waffle" path="external/waffle" revision="master"/>
   <project groups="linaro" name="linaro-image-tools" path="linaro-image-tools" revision="master"/>
+  <project groups="linaro" name="linaro-build" path="linaro_build" revision="master"/>
 </manifest>
