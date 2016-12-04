@@ -2,7 +2,8 @@
 <manifest>
   <remote name="private" fetch="ssh://git@github.com"/>
   <remote name="yinquan529" fetch="https://github.com/yinquan529"/>
-  <default remote="yinquan529" revision="refs/heads/master" sync-c="true" sync-j="4"/>
+  <remote name="yinquan529_ssh" fetch="ssh://git@github.com/yinquan529"/>
+  <default remote="yinquan529_ssh" revision="refs/heads/master" sync-c="true" sync-j="4"/>
 
   <project groups="pandaboard" name="gator" path="external/gator" revision="master"/>
   <project groups="pandaboard,imx53" name="u-boot-linaro-stable" path="u-boot/linaro/u-boot-linaro-stable" revision="master"/>
@@ -240,7 +241,6 @@
   <project groups="common" name="platform-external-strace" path="external/strace" revision="master"/>
   <project groups="common" name="platform-external-stress" path="external/stress" revision="master"/>
   <project groups="common" name="platform-external-stressapptest" path="external/stressapptest" revision="master"/>
-  <project groups="common" name="platform-external-svox" path="external/svox" revision="master"/>
   <project groups="common" name="platform-external-tagsoup" path="external/tagsoup" revision="master"/>
   <project groups="common" name="platform-external-tcpdump" path="external/tcpdump" revision="master"/>
   <project groups="common" name="platform-external-thirdparty-benchmarks" path="external/thirdparty-benchmarks" revision="master"/>
