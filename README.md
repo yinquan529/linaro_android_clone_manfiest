@@ -14,5 +14,5 @@ export WITH_HOST_DALVIK=false
 export TARGET_TOOLS_PREFIX=prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-linaro/bin/arm-linux-androideabi-
 source build/envsetup.sh
 export TARGET_PRODUCT=pandaboard
-make -j${CPUS} boottarabll systemtarball userdatatarball
+make -j${CPUS} boottarball systemtarball userdatatarball
 ```
