@@ -8,10 +8,11 @@ repo sync
 
 ##Build the System
 ```
-export CPUS='grep -c prcoessor /proc/cpuinfo'
+export CPUS=`grep -c prcoessor /proc/cpuinfo`
 export TOOLCHAIN_TRIPLET=arm-linux-androideabi
 export WITH_HOST_DALVIK=false
-export TARGET_TOOLS_PREFIX=prebuilt/gcc/linux-x86/arm/arm-linux-andorideabi-4.9-linaro/bin/arm-linux-andorideabi-
+export TARGET_TOOLS_PREFIX=prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-linaro/bin/arm-linux-androideabi-
 source build/envsetup.sh
+export TARGET_PRODUCT=pandaboard
 make -j${CPUS} boottarabll systemtarball userdatatarball
 ```
